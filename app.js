@@ -4,7 +4,7 @@
 // DECLARAÇÃO DE VARIÁVEIS
 let secretNumber;
 let shot;
-let maxNumber = 100;
+let maxNumber = 1000;
 let counter = 0;
 let shotsWord;
 let listOfSecretNumbers = [];
