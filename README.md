@@ -1,6 +1,4 @@
-<h1 class="titulo-principal">GAME
-<br>Guess the secret number</br>
-</h1>
+<h1 class="titulo-principal">Guess the secret number GAME</h1>
 
 ## About
 <p>That's the result of the project I made based on a Alura's course.</p>
