@@ -1,5 +1,4 @@
 <h1>GAME</h1>
-
 <br>Guess the secret number</br>
 
 ## About
