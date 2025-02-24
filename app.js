@@ -84,3 +84,4 @@ input.addEventListener("keyup", ({ key }) => {
             }
         }
     }
+})
