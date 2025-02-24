@@ -1,5 +1,5 @@
 <h1>GAME</h1>
-<h2>Guess the secret number</h2>
+<h2>**Guess the secret number**</h2>
 
 ## About
 <p>That's the result of the project I made based on a Alura's course.</p>
