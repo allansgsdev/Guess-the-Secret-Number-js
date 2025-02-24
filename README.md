@@ -1,4 +1,4 @@
-<h1>        GAME
+<h1 class="titulo-principal">GAME
 <br>Guess the secret number</br>
 </h1>
 
