@@ -1,6 +1,6 @@
 <h1>GAME</h1>
 
-## Guess the secret number
+<br>Guess the secret number</br>
 
 ## About
 <p>That's the result of the project I made based on a Alura's course.</p>
