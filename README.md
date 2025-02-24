@@ -1,4 +1,4 @@
-<h1>GAME
+<h1>        GAME
 <br>Guess the secret number</br>
 </h1>
 
